@@ -15,7 +15,7 @@
 
 ###  Social Pain, Social Bonds
 <p float="left">
-	<img src="./pix/line-2.png" width="400" />
+	<img src="./pix/line-2.png" width="600" />
 </p>
 
 ## References
