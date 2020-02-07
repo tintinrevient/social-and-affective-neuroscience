@@ -10,7 +10,7 @@
 * History is the best computation time?
 
 <p float="left">
-	<img src="./pix/computational-rationality.png" width="700" />
+	<img src="./pix/computational-rationality.png" width="500" />
 </p>
 
 
