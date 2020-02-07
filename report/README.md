@@ -3,9 +3,7 @@
 ## Connect the Dots
 
 ### Rationality, Loneliness, Pain
-<p float="left">
-	<img src="./pix/triangle-3.png" width="800" />
-</p>
+![summary](./pix/triangle-3.png)
 
 ### Rationality, Intelligence, Human
 <p float="left">
