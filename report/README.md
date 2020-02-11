@@ -20,4 +20,12 @@
 	<img src="./pix/triangle-2.png" width="400" />
 </p>
 
+## Zoom In
+* When starts the consciousness of Self and Other?
+* How does the concept of Self and Other develop to Modernity?
+* Is Self and Other immanent in Humans only or in Animals also?
+* Key of Loneliness: Self and Other?
+* Factors of Loneliness: Segregation, Evaluation, Loss of Love, Rationality without Dialog, etc...
+* Rationalism of Descartes is the base of Modernity, which leads to Loneliness?
+
 ## References
